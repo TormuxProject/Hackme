@@ -19,3 +19,5 @@ cd $PREFIX/share/phpmyadmin
 nano config.inc.php
 ```
 >* Find the configuration host and add port 3306 after localhost
+
+![phpmyadmin](http://ipfs.io/ipfs/QmVUgqHgQHAitXgkPuXoknDfLhU1GK4aKFgz6uKDNJipkt)
