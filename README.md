@@ -23,6 +23,9 @@
   Donate for a cup of coffee ☕🥯
 </h3>
 
->[`ETH Network : ETH / USDT`](https://metamask.app.link/send/0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff)
+>[`ETH Network : ETH / USDT`](https://metamask.app.link/)
 
->[`BSC Network : BNB / BUSD`](https://metamask.app.link/send/0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff)
+>[`BSC Network : BNB / BUSD`](https://metamask.app.link/)
+```
+0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff
+```
