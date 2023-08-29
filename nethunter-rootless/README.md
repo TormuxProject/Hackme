@@ -10,7 +10,7 @@ termux-setup-storage
 apt install wget
 ```
 ```
-wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/nethunter-rootless/config/nethunter
+wget https://raw.githubusercontent.com/TormuxProject/Hackme/main/nethunter-rootless/config/nethunter
 ```
 
 > `Wget` ( commandline tool for retrieving files using _HTTP_, _HTTPS_ and _FTP_ )
