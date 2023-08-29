@@ -9,8 +9,8 @@
 </p>
 
 <h4>
-  DISCLAIMER ⚠️
-  This Repository DOES NOT Promote or encourage Any illegal activities, all contents provided by This Repository is meant for EDUCATIONAL PURPOSE only.
+  ⚠️⚠️⚠️ DISCLAIMER ⚠️⚠️⚠️
+  <br><br>This Repository DOES NOT Promote or encourage Any illegal activities, all contents provided by This Repository is meant for EDUCATIONAL PURPOSE only.
 </h4>
 <img src="https://ipfs.io/ipfs/QmcbgQPBNqXkTX6aSdkFx2jKWMaEsipWDW8t3kmJWUfLPB" height="100%" width="100%"/>
 
