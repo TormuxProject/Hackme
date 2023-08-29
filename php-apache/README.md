@@ -60,6 +60,9 @@ rm $PREFIX/share/apache2/default-site/htdocs/index.html
 ```
 http://localhost:8080/index.php
 ```
+> I'm running on port 8081
+ 
+![php-apache](http://ipfs.io/ipfs/QmPdLKY7tqs3vmkQ7GA5PZMxLnPRswyH1ajMzeJDwirmFt)
 
 
 
