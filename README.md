@@ -2,6 +2,6 @@
 <h3>
   Let's learn together how to hack using Termux
 </h3>
-<p>
+<p
   Our project has lots of interesting tools and coding scripts.
 </p>
