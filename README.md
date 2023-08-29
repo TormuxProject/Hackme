@@ -1,7 +1,7 @@
 <h3>
   Let's learn together
 </h3>
-<img src="https://ipfs.io/ipfs/Qmdj7eLKTNvNPVTP6dLL8mWFmNxY2yud6PuRqwnkvhxBns" height="100%" width="100%"/>
+<img src="https://ipfs.io/ipfs/QmNM6LMiUZjJGYfeHgALxEBqTxiDPCHCKwRyR7xhgyj6et" height="100%" width="100%"/>
 <p>
   Our project has lots of interesting tools and coding scripts.
 </p>
