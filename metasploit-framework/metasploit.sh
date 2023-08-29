@@ -27,7 +27,7 @@ python3 -m pip install requests
 
 echo
 center "*** Ruby++dcmal ..."
-source <(curl -sL https://raw.githubusercontent.com/tormux-project/tormux-project/main/metasploit-framework/ruby/rbd.sh.txt)
+source <(curl -sL https://raw.githubusercontent.com/TormuxProject/Hackme/main/metasploit-framework/ruby/rbd.sh.txt)
 
 echo
 center "*** Removing metasploit folder ..."
