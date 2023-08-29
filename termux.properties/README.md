@@ -23,7 +23,7 @@ mkdir .termux
 
 > Retrieving ``termux.properties`` file to folder `.termux`
 ```
-wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux.properties/config/termux.properties -P .termux
+wget https://raw.githubusercontent.com/TormuxProject/Hackme/main/termux.properties/config/termux.properties -P .termux
 ```
 
 ### Reload Settings
