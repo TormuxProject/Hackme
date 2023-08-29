@@ -8,7 +8,7 @@ apt install wget
 ```
 > Download from source `Tormux Project`
 ```
-wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/metasploit-framework/metasploit.sh
+wget https://raw.githubusercontent.com/TormuxProject/Hackme/main/metasploit-framework/metasploit.sh
 ```
 ```
 chmod +x metasploit.sh
