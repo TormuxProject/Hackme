@@ -4,7 +4,7 @@
 
 <img src="https://ipfs.io/ipfs/QmNM6LMiUZjJGYfeHgALxEBqTxiDPCHCKwRyR7xhgyj6et" height="100%" width="100%"/>
 
-<img src="https://ipfs.io/ipfs/QmPeKjNAD7KcbmFrUM8rL6vHBCpxorJe7P5PJt15x3WCut" height="40%" width="40%"/>
+<img src="https://ipfs.io/ipfs/QmdVbGfr9iUV28xHY2Tc83xBUaUqmDvHwYo3D3ND5S6gao" height="40%" width="40%"/>
 
 
 <p>
