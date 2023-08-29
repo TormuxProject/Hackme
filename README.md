@@ -2,7 +2,7 @@
 <h3>
   Let's learn together how to hack using Termux
 </h3>
-https://ipfs.io/ipfs/QmUAgtim9y2upfxVAWk9vvmpquyfE7ya2BpCbLJjzRB3JR
+<img src="https://ipfs.io/ipfs/QmUAgtim9y2upfxVAWk9vvmpquyfE7ya2BpCbLJjzRB3JR" height="100%" width="100%"/>
 <p>
   Our project has lots of interesting tools and coding scripts.
 </p>
