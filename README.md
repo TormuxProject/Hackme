@@ -7,6 +7,7 @@
 <div style="display:flex;">
 <img src="https://ipfs.io/ipfs/QmdVbGfr9iUV28xHY2Tc83xBUaUqmDvHwYo3D3ND5S6gao" height="25%" width="25%"/>
 <img src="http://ipfs.io/ipfs/QmYFyV3Sam2iuiYt81ykfZmhKEL565qAwxN5ZAaXkqFuBK" height="25%" width="25%"/>
+<img src="https://ipfs.io/ipfs/QmbS4tT45snYD2v9UPrfbChyUYgxd7Rmipk9SEhrYR2GBJ" height="25%" width="25%"/>
 </div>
 
 <p>
