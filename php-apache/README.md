@@ -49,7 +49,6 @@ nano $PREFIX/share/apache2/default-site/htdocs/index.php
 apachectl stop
 
 apachectl start
-
 ```
 
 > Delete __index.html__
