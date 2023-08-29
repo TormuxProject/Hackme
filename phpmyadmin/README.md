@@ -31,4 +31,5 @@ mysqld_safe &
 php -S localhost:8080 -t $PREFIX/share/phpmyadmin/
 ```
 > Open browser localhost:8080
+
 ![phpmyadmin-browser](https://ipfs.io/ipfs/QmXU2zbfsG8gpuPvafJ4f3Jr5qhybLgDXHE8YoSTSLYAdL)
