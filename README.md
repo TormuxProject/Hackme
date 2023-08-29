@@ -12,7 +12,7 @@
 </div>
 
 <p>
-  Our project has lots of interesting tools and coding scripts. Tormux is a project to learn about system hacking activities with <b>Termux</b>
+  Our project has lots of interesting tools and coding scripts.<br>Tormux is a project to learn about system hacking activities with <b>Termux</b>
 </p>
 
 <hr>
