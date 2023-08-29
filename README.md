@@ -5,8 +5,8 @@
 <img src="https://ipfs.io/ipfs/QmNM6LMiUZjJGYfeHgALxEBqTxiDPCHCKwRyR7xhgyj6et" height="100%" width="100%"/>
 
 <div style="display:flex;">
-<img src="https://ipfs.io/ipfs/QmdVbGfr9iUV28xHY2Tc83xBUaUqmDvHwYo3D3ND5S6gao" height="30%" width="30%"/>
-<img src="http://ipfs.io/ipfs/QmYFyV3Sam2iuiYt81ykfZmhKEL565qAwxN5ZAaXkqFuBK" height="30%" width="30%"/>
+<img src="https://ipfs.io/ipfs/QmdVbGfr9iUV28xHY2Tc83xBUaUqmDvHwYo3D3ND5S6gao" height="25%" width="25%"/>
+<img src="http://ipfs.io/ipfs/QmYFyV3Sam2iuiYt81ykfZmhKEL565qAwxN5ZAaXkqFuBK" height="25%" width="25%"/>
 </div>
 
 <p>
