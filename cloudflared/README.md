@@ -19,7 +19,7 @@ apachectl start
 
 > CLoudflared tunnel
 ```
-cloudflared http 8080
+cloudflared tunnel --url localhost:8080
 ```
 
 >* Your quick `Tunnel` has been `created`! Visit it at (it may take some time to be reachable):
