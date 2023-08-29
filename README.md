@@ -25,4 +25,4 @@
 
 >[`ETH Network : ETH / USDT`](https://metamask.app.link/send/0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff)
 
->[`BSC Network : BUSD`](https://metamask.app.link/send/0xe9e7cea3dedca5984780bafc599bd69add087d56@56/transfer?address=0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff&uint256=5e18)
+>[`BSC Network : BNB / BUSD`](https://metamask.app.link/send/0xdeAd034ce83155Fe73B0FF9aB5eF0B8f13Cc00ff)
