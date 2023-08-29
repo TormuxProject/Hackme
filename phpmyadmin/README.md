@@ -21,3 +21,14 @@ nano config.inc.php
 >* Find the configuration host and add port 3306 after localhost
 
 ![phpmyadmin](http://ipfs.io/ipfs/QmVUgqHgQHAitXgkPuXoknDfLhU1GK4aKFgz6uKDNJipkt)
+
+> Start MariaDB Server in background
+ ```
+mysqld_safe &
+```
+> Start PHP Server in PHPMyAdmin directory
+```
+php -S localhost:8080 -t $PREFIX/share/phpmyadmin/
+```
+> Open browser localhost:8080
+![phpmyadmin-browser]
