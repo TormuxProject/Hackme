@@ -1,6 +1,6 @@
 ## Apache2 Web Server
 
-<img src="https://ipfs.io/ipfs/QmR1mn7aqsMR3AneRud4u3q5efyQDhaWqzVLg5fAHigHmA" width="100%" height="100%" >
+![apache2](https://ipfs.io/ipfs/QmR1mn7aqsMR3AneRud4u3q5efyQDhaWqzVLg5fAHigHmA)
 
 ### Installation
 ```
