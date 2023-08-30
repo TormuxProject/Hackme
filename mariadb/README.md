@@ -18,7 +18,7 @@ USE mysql;
 
 set password for 'root'@'localhost' = password('Your_Password');
 
-FLUSH PRIVILEGES;
+flush privileges;
 
 quit;
 ```
