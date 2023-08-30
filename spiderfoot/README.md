@@ -1,4 +1,5 @@
 ## Spiderfoot
+![spiderfoot](https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg)
 
 ### Installation
 
