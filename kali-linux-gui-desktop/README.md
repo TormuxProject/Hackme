@@ -1,4 +1,5 @@
 ## Kali Linux Gui Desktop
+![kali](https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png)
 
 ### Installation
 
