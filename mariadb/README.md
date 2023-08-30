@@ -11,7 +11,7 @@ mysqld_safe &
 ```
 mysql -u root
 ```
-> Set password on mariadb CLI
+> Set Flush Privileges root on mariadb CLI for set your password
 ```
 USE mysql;
 
