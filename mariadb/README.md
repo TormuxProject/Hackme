@@ -25,4 +25,5 @@ quit;
 ```
 mysql -u root -p
 ```
+> You can running [phpmyadmin](../phpmyadmin) after install mariadb and phpmyadmin with your root and password to access GUI phpmyadmin
 
