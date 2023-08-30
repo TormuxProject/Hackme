@@ -1,4 +1,5 @@
 ## Termux Properties
+![termux-properties](https://cdn4.iconfinder.com/data/icons/file-type-1-1/100/config-1024.png)
 
 ### Installation
 
